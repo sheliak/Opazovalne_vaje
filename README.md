@@ -2,14 +2,14 @@ Podatke lahko dobite na: [Onedrive link](https://unilj-my.sharepoint.com/:u:/g/p
 
 Python notebooki pričakujejo podatke v datotekah:
 
-   -podatki
-    +---HAT-P-32_b
-        +---BIAS
-        +---DARK
-        +---FLAT
-    +---M27
-        +---BIAS
-        +---DARK
-        +---FLAT
-        +---final
-    +---Sonce
+    -podatki
+     +---HAT-P-32_b
+         +---BIAS
+         +---DARK
+         +---FLAT
+     +---M27
+         +---BIAS
+         +---DARK
+         +---FLAT
+         +---final
+     +---Sonce
